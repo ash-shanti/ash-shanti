@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ash-shanti
-- 👀 I’m interested in all things Cloud
+- 👀 I’m interested in all things Cloud, and also Python 
 - 🌱 I’m currently learning Azure, AWS, GCP
 - 💞️ I’m looking to collaborate on not sure yet!
 - 📫 How to reach me...
